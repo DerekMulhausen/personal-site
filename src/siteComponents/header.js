@@ -7,7 +7,7 @@ function Header() {
                 <div className="left-header">
                     <div className="h-shape"></div>
                     <div className="image">
-                        <img src="./img/churchPic.jpg" alt="Profile" />
+                        <img src="./assets/img/churchPic.jpg" alt="Profile" />
                     </div>
                     
                 </div>

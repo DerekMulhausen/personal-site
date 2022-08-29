@@ -222,6 +222,24 @@
 
         },
         {
+            "title": "Software QA",
+            "desc":"",
+            "type": "",
+            "workid": 1,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "COQ team",
+            "desc":"",
+            "type": "",
+            "workid": 1,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
             "title": "Plan selector",
             "desc":"Created to select the best business plan for customers based on minutes used across the company",
             "type": "work",
@@ -347,6 +365,281 @@
             "repo":"https://github.com/DerekMulhausen/pagesync",
             "Completed":"2018-06-01"
         },
+        {
+            "title": "Auto Quote Notes",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "Shipping Display Board",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "Combo Configurator",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "YTD Invoice Report",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "Sales Variance Report",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "Send With Shipment",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "Date of Manufacture",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "Shipment Statuses",
+            "desc":"Integrated web automation with a spreadsheet to get shipment statuses of DHL and FedEx shipments",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "Subcontract Configurator",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "Inventory Lookup",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "Cycle Count",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "Commissions Report",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "Work Order Completion",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        
+
+
+
+
         {
             "title": "Tribute page",
             "desc":"This was created as part of a freeCodeCamp certification.",
