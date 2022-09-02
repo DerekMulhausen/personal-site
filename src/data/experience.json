@@ -390,7 +390,7 @@
             "workid": 9,
             "skills":[],
             "repo":"",
-            "Completed":""
+            "Completed":"2019-07-05"
         },
         {
             "title": "YTD Invoice Report",
@@ -465,7 +465,34 @@
             "Completed":""
         },
         {
-            "title": "",
+            "title": "Screening Time Remaining",
+            "desc":"Update existing query to show time remaining based on the product build data and the data collected during runtime.",
+            "type": "work",
+            "workid": 9,
+            "skills":["SQL"],
+            "repo":"",
+            "Completed":"20-01-21"
+        },
+        {
+            "title": "RFQ form for Subcontract Configurator",
+            "desc":"Create a VBA automation to email a quote",
+            "type": "work",
+            "workid": 9,
+            "skills":["VBA"],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "Repository Backup",
+            "desc":"Used VisualCron to do daily backups of the project repositories.  Daily and monthly backups were also trimmed to only keep a specific number with yearly backups as well.",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "Watlow Data",
             "desc":"",
             "type": "",
             "workid": 9,
@@ -474,149 +501,15 @@
             "Completed":""
         },
         {
-            "title": "",
-            "desc":"",
+            "title": "Customer Item Prices",
+            "desc":"Create an Excel Interface to allow users to add, modify, and remove discount prices for customer items in the database.",
             "type": "",
             "workid": 9,
             "skills":[],
             "repo":"",
             "Completed":""
         },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
+        
         {
             "title": "Commissions Report",
             "desc":"",
@@ -635,7 +528,114 @@
             "repo":"",
             "Completed":""
         },
-        
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 9,
+            "skills":[],
+            "repo":"",
+            "Completed":""
+        },
 
 
 
