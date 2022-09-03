@@ -362,107 +362,119 @@
             "type": "",
             "workid": 7,
             "skills":["Java", "Text Parsing", "HTML5", "HTML DOM"],
+            "hours":80,
             "repo":"https://github.com/DerekMulhausen/pagesync",
             "Completed":"2018-06-01"
         },
         {
             "title": "Auto Quote Notes",
             "desc":"",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["SQL", "Crystal Reports"],
+            "hours":80,
             "repo":"",
-            "Completed":""
+            "Completed":"2019-04-01"
         },
         {
             "title": "Shipping Display Board",
             "desc":"",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["JavaScript", "HTML5", "CSS3", "SQL"],
+            "hours":16,
             "repo":"",
             "Completed":""
         },
         {
             "title": "Combo Configurator",
             "desc":"",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["VBA", "SQL"],
+            "hours":40,
             "repo":"",
             "Completed":"2019-07-05"
         },
         {
             "title": "YTD Invoice Report",
             "desc":"",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["SQL", "VBA"],
+            "hours":16,
             "repo":"",
-            "Completed":""
+            "Completed":"2019-11-01"
         },
         {
             "title": "Sales Variance Report",
             "desc":"",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["VBA", "SQL"],
+            "hours":16,
             "repo":"",
-            "Completed":""
+            "Completed":"2019-10-01"
         },
         {
             "title": "Send With Shipment",
             "desc":"",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["JavaScript", "HTML5", "CSS3", "SQL", "C#"],
+            "hours":16,
             "repo":"",
-            "Completed":""
+            "Completed":"2020-03-01"
         },
         {
             "title": "Date of Manufacture",
             "desc":"",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["JavaScript", "HTML5", "CSS3", "SQL"],
+            "hours":32,
             "repo":"",
-            "Completed":""
+            "Completed":"2021-06-01"
         },
         {
             "title": "Shipment Statuses",
             "desc":"Integrated web automation with a spreadsheet to get shipment statuses of DHL and FedEx shipments",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["VBA", "VisualCron", "SQL", "JavaScript"],
+            "hours":32,
             "repo":"",
-            "Completed":""
+            "Completed":"2020-07-01"
         },
         {
             "title": "Subcontract Configurator",
             "desc":"",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["VBA", "SQL"],
+            "hours":80,
             "repo":"",
-            "Completed":""
+            "Completed":"2020-05-01"
         },
         {
             "title": "Inventory Lookup",
             "desc":"",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["JavaScript", "HTML5", "CSS3", "SQL"],
+            "hours":32,
             "repo":"",
-            "Completed":""
+            "Completed":"2022-04-01"
         },
         {
             "title": "Cycle Count",
             "desc":"",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["JavaScript", "HTML5", "CSS3", "SQL"],
+            "hours":100,
             "repo":"",
-            "Completed":""
+            "Completed":"2020-12-01"
         },
         {
             "title": "Screening Time Remaining",
@@ -470,6 +482,7 @@
             "type": "work",
             "workid": 9,
             "skills":["SQL"],
+            "hours":12,
             "repo":"",
             "Completed":"20-01-21"
         },
@@ -480,166 +493,59 @@
             "workid": 9,
             "skills":["VBA"],
             "repo":"",
-            "Completed":""
+            "Completed":"2020-05-15"
         },
         {
             "title": "Repository Backup",
             "desc":"Used VisualCron to do daily backups of the project repositories.  Daily and monthly backups were also trimmed to only keep a specific number with yearly backups as well.",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["VisualCron"],
+            "hours":8,
             "repo":"",
-            "Completed":""
+            "Completed":"2021-06-15"
         },
         {
             "title": "Watlow Data",
             "desc":"",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["SQL", "DBA"],
+            "hours":16,
             "repo":"",
-            "Completed":""
+            "Completed":"2020-02-15"
         },
         {
             "title": "Customer Item Prices",
             "desc":"Create an Excel Interface to allow users to add, modify, and remove discount prices for customer items in the database.",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["VBA", "SQL"],
+            "hours":40,
             "repo":"",
-            "Completed":""
+            "Completed":"2021-03-15"
         },
         
         {
             "title": "Commissions Report",
             "desc":"",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["VBA", "SQL"],
+            "hours":40,
             "repo":"",
-            "Completed":""
+            "Completed":"2021-11-15"
         },
         {
             "title": "Work Order Completion",
             "desc":"",
-            "type": "",
+            "type": "work",
             "workid": 9,
-            "skills":[],
+            "skills":["JavaScript", "HTML5", "CSS3", "SQL"],
+            "hours":200,
             "repo":"",
             "Completed":""
         },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-        {
-            "title": "",
-            "desc":"",
-            "type": "",
-            "workid": 9,
-            "skills":[],
-            "repo":"",
-            "Completed":""
-        },
-
-
-
-
         {
             "title": "Tribute page",
             "desc":"This was created as part of a freeCodeCamp certification.",
