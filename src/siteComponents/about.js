@@ -1,6 +1,8 @@
 import AboutItem from "./about/AboutItem";
 import ProgressBars from "./about/ProgressBars";
+import getSkills from '../scripts/skillsProcessor';
 function About(){
+    let skillData=getSkills();
     return(
         <section className="section sec2 about" id="about">
             <div className="main-title">

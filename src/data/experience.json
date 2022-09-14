@@ -789,6 +789,69 @@
         },
         
         {
+            "title": "Experience Processor",
+            "desc":"Converts the experience from various sources into skills data to be used in my personal site.",
+            "type": "personal",
+            "workid": 0,
+            "skills":["JavaScript", "JSON", "ETL"],
+            "hours":16,
+            "completed":"2022-09-14"
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 0,
+            "skills":[],
+            "hours":0,
+            "completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 0,
+            "skills":[],
+            "hours":0,
+            "completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 0,
+            "skills":[],
+            "hours":0,
+            "completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 0,
+            "skills":[],
+            "hours":0,
+            "completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 0,
+            "skills":[],
+            "hours":0,
+            "completed":""
+        },
+        {
+            "title": "",
+            "desc":"",
+            "type": "",
+            "workid": 0,
+            "skills":[],
+            "hours":0,
+            "completed":""
+        },
+        {
             "title": "last",
             "desc":"",
             "type": "",
@@ -797,6 +860,7 @@
             "hours":0,
             "completed":""
         }
+        
         
         
     ]
