@@ -1,8 +1,9 @@
 import './styles/styles.css';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
-import './scripts/populateSkills';
-import Header from './siteComponents/header';
-import popSkills from './scripts/populateSkills';
+import React from 'react';
+//import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+//import Header from './siteComponents/header';
+import About from './siteComponents/about';
+
 
 
 function App() {
@@ -12,7 +13,7 @@ function App() {
   return (
     <>
 
-      <Header />
+      <About />
     </>
   );
 }

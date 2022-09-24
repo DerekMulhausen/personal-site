@@ -3,19 +3,22 @@
 
 
 function getSkills(){
-    var xhr=new XMLHttpRequest();
+    let Experience;
+    let skills={};
+    let totalSkillTime=0;
+    let skillList=[];
+    let workList=[];
+    let totalProjectTime=0;
+    let xhr=new XMLHttpRequest();
 
     xhr.open('GET','../data/experience.json',true);
     xhr.responseText='text';
 
     xhr.onload=function(){
         if(xhr.status===200){
-            var Experience=JSON.parse(xhr.responseText);
+            Experience=JSON.parse(xhr.responseText);
             console.log(Experience.certificates);
-            var skills={};
-            let totalSkillTime=0;
-            skillList=[];
-            workList=[];
+
             Experience.certificates.forEach(cert=>{
                 //create cert block for skills
                 let certData={
@@ -84,6 +87,7 @@ function getSkills(){
                     
                 };
                 totalSkillTime+=proj.hours;
+                totalProjectTime+=proj.hours;
                 const skillTime=proj.hours/proj.skills.length;
                 skillList=updateSkills(skillList, projData, proj.skills, 'projects', skillTime);
                 if(proj.workid>0){
@@ -143,13 +147,26 @@ function getSkills(){
             skillList.forEach(skill=>{
                 skill.dispPct=skill.hours/maxSkillTime*100;
                 skill.skillPct=skill.hours/totalSkillTime*100;
-            });        
+            });
+            skills.highlights=[];
+            skills.highlights.push({'id':1,'lg':totalProjectTime,'sm1':'Project', 'sm2':'Hours'});
+            skills.highlights.push({'id':2,'lg':Experience.projects.length,'sm1':'Projects', 'sm2':'Completed'});
+            skills.highlights.push({'id':3,'lg':skillList.length,'sm1':'Distinct', 'sm2':'Skills'});
+            skills.highlights.push({'id':4,'lg':(new Date()).getFullYear()-2015,'sm1':'Professional', 'sm2':'Programming Years'});
+            
+            //highlights
+                //project hours
+                //distinct skills
+                //years of experience
+                //projects completed
             console.log(skillList);
             console.log(workList);
         }
 
     };
     xhr.send();
+    skills.skillList=skillList;
+    return skills;
 }
 function updateSkills(skillList, sourceBlock, skillBlock, sourceType, skillTime){
     skillBlock.forEach(skill=>{
@@ -172,7 +189,6 @@ function updateSkills(skillList, sourceBlock, skillBlock, sourceType, skillTime)
             skillList.push(dataBlock);
         }
     });
-    return skillList;
 }
 
 export default getSkills;
