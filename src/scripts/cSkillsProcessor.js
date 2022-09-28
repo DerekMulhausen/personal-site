@@ -118,27 +118,29 @@ function getSkills(){
     skills.skillList=skillList;
     return skills;
 }
-function updateSkills(skillList, sourceBlock, skillBlock, sourceType, skillTime){
-    skillBlock.forEach(skill=>{
-        const skillIndex=skillList.findIndex(elem=>{
-            return elem.name===skill;
+function updateSkills(skillList=[], sourceBlock, skillBlock, sourceType, skillTime){
+    if(skillBlock.length>0){
+        skillBlock.forEach(skill=>{
+            const skillIndex=skillList.findIndex(elem=>{
+                return elem.name===skill;
+            });
+            if(skillIndex>-1){
+                skillList[skillIndex].hours+=skillTime;
+                skillList[skillIndex][sourceType].push(sourceBlock);
+            }else{
+                let dataBlock={
+                    "name":skill,
+                    "hours":skillTime,
+                    "certificates":[],
+                    "work":[],
+                    "projects":[],
+                    "courses":[]
+                };
+                dataBlock[sourceType].push(sourceBlock);
+                skillList.push(dataBlock);
+            }
         });
-        if(skillIndex>-1){
-            skillList[skillIndex].hours+=skillTime;
-            skillList[skillIndex][sourceType].push(sourceBlock);
-        }else{
-            let dataBlock={
-                "name":skill,
-                "hours":skillTime,
-                "certificates":[],
-                "work":[],
-                "projects":[],
-                "courses":[]
-            };
-            dataBlock[sourceType].push(sourceBlock);
-            skillList.push(dataBlock);
-        }
-    });
+    }
 }
 
 export default getSkills;

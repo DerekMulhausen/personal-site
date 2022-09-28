@@ -863,6 +863,15 @@
         
         
         
+    ],
+    "courses":[
+        {
+            "id":1,
+            "title": ".NET 5 Class Libraries: The Big Picture",
+            "source":"Pluralsight",
+            "hours":1.25,
+            "completed":"2022-09-28"
+        }
     ]
 
 }
