@@ -869,6 +869,15 @@
             "id":1,
             "title": ".NET 5 Class Libraries: The Big Picture",
             "source":"Pluralsight",
+            "skills":[".NET 5"],
+            "hours":1.25,
+            "completed":"2022-09-28"
+        },
+        {
+            "id":2,
+            "title": "Spring: The Big Picture",
+            "source":"Pluralsight",
+            "skills":["Spring"],
             "hours":1.25,
             "completed":"2022-09-28"
         }
